@@ -40,8 +40,8 @@
 <img src="/src/assets/img/main.jpg" alt="Logo"/>
 
 With the enhancing technical industry and life standard of the world, people are getting focus on a
-“happiness”. Happiness is not only feeling, but also makes people be more productively and healthier
-(happiness, 2019, para. 1). Happiness is consisting various factors such as health, relationship, and
+“happiness”. Happiness is not only feeling, but also makes people be more productively and healthier.
+Happiness is consisting various factors such as health, relationship, and
 economy, therefore, this application is developed to know what things are made happiness up.
 Moreover, this application shows which country is the happiest and what factors of it.
 This application has a wonderful navigation bar which is changed depends on the user’s status such
@@ -59,7 +59,7 @@ app for looking gorgeous.
 - [![JS][JS]][JS-url]
 - [![Json][Json]][Json-url]
 - [![Mysql][Mysql]][Mysql-url]
-- [![Swagger][Swagger-io]][Swagger-url]
+- [![Swagger-io][Swagger-io]][Swagger-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
