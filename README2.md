@@ -59,7 +59,7 @@ app for looking gorgeous.
 - [![JS][JS]][JS-url]
 - [![Json][Json]][Json-url]
 - [![Mysql][Mysql]][Mysql-url]
-- [![Swagger][Swagger-io]][Swagger-url]
+- [![Swagger][Swagger-io]][Swagger]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -150,4 +150,4 @@ Other Projects: [https://github.com/jasmineHur?tab=repositories](https://github.
 [Mysql]: https://img.shields.io/badge/Mysql-ffffff?style=for-the-badge&logo=mysql
 [Mysql-url]: https://www.mysql.com/
 [Swagger-io]: https://img.shields.io/badge/Swagger-000000?style=for-the-badge&logo=swagger
-[Swagger-url]: https://swagger.io/
+[Swagger]: https://swagger.io/
