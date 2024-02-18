@@ -8,7 +8,7 @@
   </a>
 
   <h3 align="center">Happiniess Web Application (CAB230)</h3>
-  <h6> Please note: This project is not compatable with some npms(react-select/react-chartjs-2), need to update </h6>
+  <h6> Please note: This project is not compatible with some npms(react-select/react-chartjs-2), needs to update </h6>
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -59,7 +59,7 @@ app for looking gorgeous.
 - [![JS][JS]][JS-url]
 - [![Json][Json]][Json-url]
 - [![Mysql][Mysql]][Mysql-url]
-- [![Swagger][Swagger]][Swagger-url]
+- [![Swagger][Swagger-io]][Swagger-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -101,28 +101,13 @@ Created by Jasmine Hur
 
 ## Contact
 
-Jasmine Hur - jasminehur238@gmail.com
+Jasmine Hur: jasminehur238@gmail.com
 
 Other Projects: [https://github.com/jasmineHur?tab=repositories](https://github.com/jasmineHur?tab=repositories)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
-
-## Acknowledgments
-
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
-- [Choose an Open Source License](https://choosealicense.com)
-- [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-- [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-- [Malven's Grid Cheatsheet](https://grid.malven.co/)
-- [Img Shields](https://shields.io)
-- [GitHub Pages](https://pages.github.com)
-- [Font Awesome](https://fontawesome.com)
-- [React Icons](https://react-icons.github.io/react-icons/search)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -164,5 +149,5 @@ Use this space to list resources you find helpful and would like to give credit 
 [Json-url]: https://www.json.org/json-en.html
 [Mysql]: https://img.shields.io/badge/Mysql-ffffff?style=for-the-badge&logo=mysql
 [Mysql-url]: https://www.mysql.com/
-[Swagger]: https://img.shields.io/badge/Swagger-000000?style=for-the-badge&logo=swagger
+[Swagger-io]: https://img.shields.io/badge/Swagger-000000?style=for-the-badge&logo=swagger
 [Swagger]: https://swagger.io/
