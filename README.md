@@ -28,6 +28,7 @@
       </ul>
     </li>
     <li><a href="#architecture">Architecture</a></li>
+    <li><a href="#reports">Reports</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
@@ -86,6 +87,15 @@ This is an example of how to list things you need to use the software and how to
 ## Architecture
 
 <img src="/src/assets/img/Architecture.png" />
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- REPORT -->
+
+## Reports
+
+<a href="report-front.pdf">Report for Frontend side</a>
+<a href="report-server.pdf">Report for Server side</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
