@@ -28,7 +28,7 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#architecture">Architecture</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -58,6 +58,7 @@ app for looking gorgeous.
 
 - [![React][React.js]][React-url]
 - [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+- [![NodeJS][Node-js]][Node-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -89,7 +90,9 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ROADMAP -->
+<!-- ARCHITECTURE -->
+
+## Architecture
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -105,9 +108,9 @@ Created by Jasmine Hur
 
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Jasmine Hur - jasminehur238@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Other Projects: [https://github.com/jasmineHur?tab=repositories](https://github.com/jasmineHur?tab=repositories)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -160,3 +163,5 @@ Use this space to list resources you find helpful and would like to give credit 
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com
+[Node-js]: https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=nodedotjs
+[Node-url]: https://nodejs.org/en
