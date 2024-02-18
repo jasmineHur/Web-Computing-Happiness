@@ -94,7 +94,10 @@ This is an example of how to list things you need to use the software and how to
 
 ## Reports
 
-<a href="report-front.pdf">Report for Frontend side</a>
+Documenting all process and description
+
+<a href="report-front.pdf">Report for Frontend side</a> <br/>
+
 <a href="report-server.pdf">Report for Server side</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
