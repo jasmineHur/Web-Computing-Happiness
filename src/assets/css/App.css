@@ -1,0 +1,81 @@
+body {
+  background: #fffbf0;
+  font-family: Andale Mono, monospace;
+}
+
+.app {
+  text-align: center;
+  max-width: 1200px;
+  width:100%; 
+  margin: auto;
+  font-weight: 600;
+  padding-top: 2%;
+  font-size: 12px;
+}
+
+.app-link {
+  color: #7db9b3;
+}
+
+.app-contents{
+  width:100%; 
+  height:900px;
+  float:left; 
+  background-image: url("../img/main.jpg");
+  background-size: 100%;
+  
+}
+
+.app-footer{
+  width:100%; 
+  height:130px; 
+  float:left; 
+  margin-top:10px; 
+  background:#59606d;
+}
+
+.app-footer p{
+  text-align: center;
+  color: #ffffff;
+  font-size: 13px;
+}
+
+
+@media screen and ( max-width: 994px ) {
+  .app-contents{
+    width:100%; 
+    height:700px;
+    float:left; 
+    background-image: url("../img/main.jpg");
+    background-size: 100%;
+    
+  }
+
+  .app {
+    text-align: center;
+    max-width: 1200px;
+    width:100%; 
+    margin: auto;
+    font-weight: 600;
+    padding-top: 5%;
+    font-size: 12px;
+  }
+}
+@media screen and (max-width: 1080px) and (min-width: 995px) {
+  .app-contents{
+    width:100%; 
+    height:800px;
+    float:left; 
+    background-image: url("../img/main.jpg");
+    background-size: 100%;
+  }
+  .app {
+    text-align: center;
+    max-width: 1200px;
+    width:100%; 
+    margin: auto;
+    font-weight: 600;
+    padding-top: 5%;
+    font-size: 12px;
+  }
+}
