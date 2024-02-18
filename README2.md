@@ -8,6 +8,7 @@
   </a>
 
   <h3 align="center">Happiniess Web Application (CAB230)</h3>
+  <h6> Please note: This project is not compatable with some npms(react-select/react-chartjs-2), need to update </h6>
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -24,15 +25,11 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#architecture">Architecture</a></li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -59,6 +56,10 @@ app for looking gorgeous.
 - [![React][React.js]][React-url]
 - [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 - [![NodeJS][Node-js]][Node-url]
+- [![JS][JS]][JS-url]
+- [![Json][Json]][Json-url]
+- [![Mysql][Mysql]][Mysql-url]
+- [![Swagger][Swagger]][Swagger-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -80,19 +81,11 @@ This is an example of how to list things you need to use the software and how to
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- USAGE EXAMPLES -->
-
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- ARCHITECTURE -->
 
 ## Architecture
+
+<img src="/src/assets/img/Architecture.png" />
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -165,3 +158,11 @@ Use this space to list resources you find helpful and would like to give credit 
 [JQuery-url]: https://jquery.com
 [Node-js]: https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=nodedotjs
 [Node-url]: https://nodejs.org/en
+[JS]: https://img.shields.io/badge/JavaScript-fcba03?style=for-the-badge&logo=javascript
+[JS-url]: https://www.javascript.com/
+[Json]: https://img.shields.io/badge/Json-000000?style=for-the-badge&logo=json
+[Json-url]: https://www.json.org/json-en.html
+[Mysql]: https://img.shields.io/badge/Mysql-ffffff?style=for-the-badge&logo=mysql
+[Mysql-url]: https://www.mysql.com/
+[Swagger]: https://img.shields.io/badge/Swagger-000000?style=for-the-badge&logo=swagger
+[Swagger]: https://swagger.io/
