@@ -59,7 +59,7 @@ app for looking gorgeous.
 - [![JS][JS]][JS-url]
 - [![Json][Json]][Json-url]
 - [![Mysql][Mysql]][Mysql-url]
-- [![Swagger-io][Swagger-io]][Swagger-url]
+- [![Swagger][Swagger-io]][Swagger-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
