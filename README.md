@@ -7,7 +7,7 @@
     <img src="/src/assets/img/head.jpg" alt="Logo">
   </a>
 
-  <h3 align="center">Happiniess Web Application (CAB230)</h3>
+  <h3 align="center">Happiniess Web Computing (CAB230)</h3>
   <h6> Please note: This project is not compatible with some npms(react-select/react-chartjs-2), needs to update </h6>
 </div>
 
